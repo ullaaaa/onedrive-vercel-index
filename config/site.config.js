@@ -39,7 +39,9 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/bt_backup/u-need-a-password'],
+  "protectedRoutes": [
+  "/🌞 bt_backup/u-need-a-password",
+],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:lanshan.luoxue@gmail.com',
